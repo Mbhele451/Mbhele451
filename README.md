@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Lerato Mbhele 👋
 
-<!--
-**Mbhele451/Mbhele451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year BSc Computer Science and Information Systems student at the University of KwaZulu-Natal (UKZN), expecting to graduate on **19 December 2026**.
 
-Here are some ideas to get you started:
+I'm building practical software development skills through academic and personal projects, with interests in application development, databases, problem-solving, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Focus
+- Preparing for graduate programmes and junior software development opportunities.
+- Strengthening my programming, database, and software engineering skills.
+- Building projects that demonstrate practical problem-solving and technical growth.
+
+### 🛠️ Technical Interests
+- **Languages:** C++, Python, C#, Java, SQL
+- **Areas:** Software Development, Database Systems, Machine Learning
+
+*Technologies listed here should reflect what I can confidently discuss and demonstrate in my repositories.*
+
+### 🚀 Selected Projects
+
+- **[StationaryHub Inventory System](https://github.com/Mbhele451/StationaryHub-Inventory-System)**  
+  A group project involving a multithreaded C++ inventory and trading system.
+
+- **[Student Performance Prediction](https://github.com/Mbhele451/student-performance-prediction)**  
+  A Python machine learning project focused on predicting student academic performance.
+
+### 📫 Connect With Me
+
+- **LinkedIn:** [Lerato Mbhele](https://www.linkedin.com/in/lerato-mbhele-144969238)
+- **Email:** [mazwimbhele45@gmail.com](mailto:mazwimbhele45@gmail.com)
+
+---
+
+*Always learning, building, and improving one project at a time.*
