@@ -27,6 +27,7 @@ I'm building practical software development skills through academic and personal
 
 - **LinkedIn:** [Lerato Mbhele](https://www.linkedin.com/in/lerato-mbhele-144969238)
 - **Email:** [mazwimbhele45@gmail.com](mailto:mazwimbhele45@gmail.com)
+- **Live site:** [Portfolio](https://mbhele451.github.io/portfolio)
 
 ---
 
