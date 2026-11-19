@@ -1,34 +1,69 @@
 # Hi, I'm Lerato Mbhele 👋
 
-I'm a final-year BSc Computer Science and Information Systems student at the University of KwaZulu-Natal (UKZN), expecting to graduate on **19 December 2026**.
+I'm a final-year BSc Computer Science and Information Systems student
+at the University of KwaZulu-Natal (UKZN), expecting to graduate in
+December 2026.
 
-I'm building practical software development skills through academic and personal projects, with interests in application development, databases, problem-solving, and machine learning.
+I build business applications with C# and SQL, and work with C++
+concurrency and Python machine learning through academic and personal
+projects. I'm seeking graduate programmes and junior software
+development opportunities.
 
-### 🎯 Current Focus
-- Preparing for graduate programmes and junior software development opportunities.
-- Strengthening my programming, database, and software engineering skills.
-- Building projects that demonstrate practical problem-solving and technical growth.
+## Technical Skills
 
-### 🛠️ Technical Interests
-- **Languages:** C++, Python, C#, Java, SQL
-- **Areas:** Software Development, Database Systems, Machine Learning
+- **Languages:** C#, C++, Python, Java, SQL
+- **Application development:** Windows Forms, ASP.NET Web Forms, ADO.NET
+- **Databases:** SQL Server, MySQL
+- **Machine learning:** scikit-learn, Pandas, NumPy, Matplotlib
+- **Tools:** Git, GitHub, Visual Studio, VS Code
 
-*Technologies listed here should reflect what I can confidently discuss and demonstrate in my repositories.*
+## Selected Projects
 
-### 🚀 Selected Projects
+### ThyWill — Job and Inventory Management
 
-- **[StationaryHub Inventory System](https://github.com/Mbhele451/StationaryHub-Inventory-System)**  
-  A group project involving a multithreaded C++ inventory and trading system.
+A university group project for managing customers, jobs, technicians
+and inventory, built with C#, Windows Forms, ASP.NET Web Forms
+and SQL Server.
 
-- **[Student Performance Prediction](https://github.com/Mbhele451/student-performance-prediction)**  
-  A Python machine learning project focused on predicting student academic performance.
+**My contributions:** authentication, business and data-access layers,
+validation, job workflows, cost calculations and PDF invoices.
 
-### 📫 Connect With Me
+[Read the case study](https://mbhele451.github.io/portfolio/ThyWill.html)
 
-- **LinkedIn:** [Lerato Mbhele](https://www.linkedin.com/in/lerato-mbhele-144969238)
-- **Email:** [mazwimbhele45@gmail.com](mailto:mazwimbhele45@gmail.com)
-- **Live site:** [Portfolio](https://mbhele451.github.io/portfolio)
+### StationaryHub — Concurrent Inventory System
 
----
+A C++ group project that processes orders across multiple warehouses.
 
-*Always learning, building, and improving one project at a time.*
+**My contributions:** mutex-based synchronisation for inventory updates,
+shared object ownership using `std::shared_ptr`, and CLI menus
+and handlers.
+
+[Explore the repository](https://github.com/Mbhele451/StationaryHub-Inventory-System)
+
+### Student Performance Prediction
+
+A Python learning project using Random Forest regression to estimate
+marks from synthetic study-hours, attendance and sleep data.
+
+Includes data generation, model training, MAE and R² evaluation,
+and visualisations. Results demonstrate the modelling workflow;
+they have not been validated on real student data.
+
+[Explore the repository](https://github.com/Mbhele451/student-performance-prediction)
+
+## Teaching Experience
+
+As a COMP100 demonstrator at UKZN, I support first-year students
+learning introductory programming.
+
+## Current Focus
+
+- Improving application testing and reproducible project setup.
+- Developing my web application and database skills.
+- Preparing for graduate and junior developer opportunities.
+
+## Connect With Me
+
+- [Portfolio](https://mbhele451.github.io/portfolio)
+- [LinkedIn](https://www.linkedin.com/in/lerato-mbhele-144969238)
+- [Email](mailto:mazwimbhele45@gmail.com)
