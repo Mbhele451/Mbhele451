@@ -19,16 +19,15 @@ development opportunities.
 
 ## Selected Projects
 
-### ThyWill — Job and Inventory Management
+### THY WILL | Job and resource management
 
-A university group project for managing customers, jobs, technicians
-and inventory, built with C#, Windows Forms, ASP.NET Web Forms
-and SQL Server.
+Our five-person UKZN capstone team built a Windows desktop application and web portal for an electrical and construction business. Both clients use C# and SQL Server to connect a booking to its technician, material costs, invoice and payment.
 
-**My contributions:** authentication, business and data-access layers,
-validation, job workflows, cost calculations and PDF invoices.
+I built the manager workspace for scheduling jobs, checking stock and assigning technicians. I worked on billing, payment validation and PDF invoices, including the check that prevents a settled job from being paid twice. My security and architecture work covered password verification, account recovery, role and invoice ownership checks, and shared business and data-access layers.
 
-[Read the case study](https://mbhele451.github.io/portfolio/ThyWill.html)
+The Azure demo may go offline in February 2027 if the university subscription ends. The repository includes desktop screenshots and a short walkthrough.
+
+[Explore the repository](https://github.com/Mbhele451/thy-will-job-management) · [Read the case study](https://mbhele451.github.io/portfolio/ThyWill.html) · [Open the Azure demo](https://ist-wst-group-34-evfsa0bcctd3acab.southafricanorth-01.azurewebsites.net/)
 
 ### StationaryHub — Concurrent Inventory System
 
@@ -53,8 +52,7 @@ they have not been validated on real student data.
 
 ## Teaching Experience
 
-As a COMP100 demonstrator at UKZN, I support first-year students
-learning introductory programming.
+From February to November 2026, I supported first-year students in COMP 100 and COMP 102 practicals at UKZN, guiding them through Python and Java programming exercises.
 
 ## Current Focus
 
